@@ -86,7 +86,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/om-baji/mcq-redesign.git
+git clone https://github.com/Smitahire/Mind-Maze.git
 cd mcq-redesign
 ```
 
